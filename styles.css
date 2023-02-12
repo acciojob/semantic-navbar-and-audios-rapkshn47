@@ -1,2 +1,26 @@
+nav{
+	width: 100%;
+	background-color: grey;
+	color: white;
+	height: 30px;
+	
+	
+}
+body{
+	background-color: #84ab8e;
+	margin: 0;
+}
 
-/* Your CSS Code here. */
+a{
+	
+	text-decoration: none;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
+
+.music{
+	margin: auto;
+	width: 50%;
+	
+}
